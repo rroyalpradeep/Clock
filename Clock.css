@@ -110,3 +110,31 @@ body {
     padding-right: 6%;
     color: #fb8600;
 }
+
+a img {
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: #061084;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#copyright {
+    padding: 10px;
+    font-size: 15px;
+    font-weight: normal;
+    color: #fb8600;
+    text-align: center;
+    background-color: #061084;
+}
